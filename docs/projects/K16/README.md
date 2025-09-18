@@ -52,3 +52,37 @@
     | Đề số 3. Truyền file qua TCP                                               | Đặng Bùi Thanh Tùng    | [:octocat:github](https://github.com/maidkalstit/TruyenfileTCP)              |         |
     | Đề số 4. Truyền file qua UDP                                               | Nguyễn Cao Tùng        | [:octocat:github](https://github.com/Nek0h1me/truyen-file-qua-UDP)           |         |
     | Đề số 5. Quản lý sinh viên bằng RMI                                        | Nguyễn Công Uẩn        | [:octocat:github](https://github.com/CongUan04/Quan_Ly_Sinh_Vien_bang_RMI)   |         |
+
+- #### CNTT 16-04
+
+| Tên đề tài | Người thực hiện | Source code | Nổi bật |
+|------------|-----------------|-------------|---------|
+| Đề số 1. Ứng dụng chat Client-Server sử dụng TCP | Nguyễn Thu Hồng | [:octocat:github](https://github.com/nguyenhonh2004/LTM-1604-D01-Chat-TCP.git) | |
+| Đề số 2. Chat Room dùng UDP Multicast | Đào Gia Hưng |  | |
+| Đề số 3. Truyền file qua TCP | Nguyễn Đức Anh | [:octocat:github](https://github.com/nguyenducanh1152004/LTM-16_04--eso-3.-Truyen-file-qua-TCP.git) | |
+| Đề số 3. Truyền file qua TCP | Phạm Thành Hưng | [:octocat:github](https://github.com/PhamHgun-0709/LTM-1604-D03-File-TCP.git) | |
+| Đề số 4. Truyền file qua UDP | Nguyễn Tuấn Anh | [:octocat:github](https://github.com/tuananh12pt/LTM-1604-D04-UDP) | |
+| Đề số 4. Gửi file qua UDP | Trịnh Việt Hưng | [:octocat:github](https://github.com/hung-debug/Network-Programming/tree/dev-hung) | |
+| Đề số 5. Quản lý sinh viên bằng RMI | Tạ Việt Anh |[:octocat:github](https://github.com/vitconxinhxinh/LTM-1604--D05-QLSV-RMI.git) | |
+| Đề số 6. Quản lý sách – thư viện qua mạng | Đào Duy Mạnh | [:octocat:github](https://github.com/DaoDuyManh/LTM-1604-D06-QuanLyThuVien-TCP.git) | |
+| Đề số 7. Hệ thống đăng nhập Client-Server | Đặng Thanh Bình | [:octocat:github](https://github.com/dtb0405/LTM-1604-D07-Sign-in-Client-Server.git) | |
+| Đề số 7. Hệ thống đăng nhập Client-Server | Nguyễn Hoài Nam | [:octocat:github](https://github.com/Hoainam26/LTM-1604-D07-DangNhapClientServer.git) | |
+| Đề số 8. Ứng dụng đặt vé xem phim | Lương Quốc Diệu | [:octocat:github](https://github.com/LuongQuocDieu/LTM-1604-D08-Movie-Tickets.git) | |
+| Đề số 8. Đăng ký vé xem phim | Phạm Thị Hồng Ngọc | [:octocat:github](https://github.com/phamthihongngoc/LTM-1604-D08-DangKyXemPhim.git) | |
+| Đề số 9. Trò chơi Oẳn Tù Tì qua mạng | Nguyễn Trọng Đàn | [:octocat:github](https://github.com/pax-glitch/LTM-1604-D09-OTT-TCP) | |
+| Đề số 9. Trò chơi Oẳn Tù Tì qua mạng | Nguyễn Việt Ninh | [:octocat:github](https://github.com/nvninh2804nvn-boop/LTM-1604-D09-GameOANTUTI-TCP.git) | |
+| Đề số 10. Ứng dụng điều khiển máy tính từ xa (Remote Control) | Lê Hải Đăng | [:octocat:github](https://github.com/rouhvh/LTM-1604-D10-Remote-Control.git) | |
+| Đề số 11. Game Tic Tac Toe (Caro 3x3) | Nguyễn Hải Đăng | [:octocat:github](https://github.com/danganh1009/LTM-1604-D11-Game-Tic-Tac-Toe.git) | |
+| Đề số 11. Game Tic Tac Toe (Caro 3x3) | Vũ Đình Quân | [:octocat:github](https://github.com/Quan0804/LTM-1604-D11-Game-Tic-Tac-Toe-.git) | |
+| Đề số 12. Ứng dụng tra cứu từ điển Anh–Việt | Nguyễn Tiến Đạt | [:octocat:github](https://github.com/wayzedgolden1/LTM-1604-D12.git) | |
+| Đề số 12. Ứng dụng tra cứu từ điển Anh–Việt | Vũ Duy Thái | [:octocat:github](https://github.com/thaiduis/LTM-1604-D12-TRA-CUU-TCP.git) | |
+| Đề số 13. Gửi email mô phỏng SMTP qua Socket | Vũ Hải Đức | [:octocat:github](https://github.com/vuhaiduc/LTM-1604-D13-Gui-email-mo-phong-SMTP-qua-Socket.git) | |
+| Đề số 13. Gửi email mô phỏng SMTP qua Socket | Nguyễn Đức Thường | [:octocat:github](https://github.com/ducthuong11/LTM-1604-D13-Send-RMI.git) | |
+| Đề số 14. Gửi tin nhắn Broadcast qua UDP | Nguyễn Văn Giang | [:octocat:github](https://github.com/GiangNguyen204/LTM-1604-D14-Gui-UDP.git) | |
+| Đề số 15. Ứng dụng tra cứu thời tiết online | Nguyễn Đào Nguyên Giáp | [:octocat:github](https://github.com/giap1324/LTM-1604-05-ungdungtracuuthoitietonline.git) | |
+| Đề số 16. Đồng hồ Server – Client (đồng bộ thời gian) | Nguyễn Thuý Hằng | [:octocat:github](https://github.com/Nguyenthuyhang-30/LTM-1604-D16.git) | |
+| Đề số 17. Chat nhóm bằng RMI | Trịnh Hữu Hiệu | [:octocat:github](https://github.com/Anos2003/LTM-1604-D17-Chat-TCP.git) | |
+| Đề số 18. Ứng dụng trắc nghiệm trực tuyến | Khổng Minh Hoài | [:octocat:github](https://github.com/minhhoai55/LTM-1604-D18-AppTestOnline.git) | |
+| Đề số 19. Hệ thống quản lý ngân hàng mini | Lê Bá Hoan | [:octocat:github](https://github.com/h0an12/LTM-16-04-D19-Chat-UDP.git) | |
+| Đề số 20. Hệ thống cảnh báo thời gian thực (Server gửi cảnh báo tới nhiều client qua UDP) | Lã Việt Hoàng | [:octocat:github](https://github.com/Tabisan805/LTM-1604-De20-Alert-Notification-UDP) | |
+
